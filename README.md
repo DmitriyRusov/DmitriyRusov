@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend development study
 - 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on building WEB sites
-- 📫 How to reach me: DirectIST @rusov.dmitriy
+- 📫 How to reach me: DirectINST @rusov.dmitriy
 
 <!---
 DmitriyRusov/DmitriyRusov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
