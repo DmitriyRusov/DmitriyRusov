@@ -8,3 +8,7 @@
 DmitriyRusov/DmitriyRusov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![](https://komarev.com/ghpvc/?username=DmitriyRusov&color=blue&style=plastic)
+[![codewars](https://www.codewars.com/users/DmitriyRusov/badges/micro)](https://www.codewars.com/users/DmitriyRusov/)
+
