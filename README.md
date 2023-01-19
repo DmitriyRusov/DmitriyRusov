@@ -9,8 +9,8 @@ DmitriyRusov/DmitriyRusov is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://komarev.com/ghpvc/?username=DmitriyRusov&color=blue&style=for-the-badge)<br>
-[![codewars](https://www.codewars.com/users/DmitriyRusov/badges/small)](https://www.codewars.com/users/DmitriyRusov/)
+![](https://komarev.com/ghpvc/?username=DmitriyRusov&color=blue&style=plastic)<br>
+[![codewars](https://www.codewars.com/users/DmitriyRusov/badges/micro)](https://www.codewars.com/users/DmitriyRusov/)
 
 
 
