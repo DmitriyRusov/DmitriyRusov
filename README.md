@@ -16,7 +16,7 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/0afa41d5bb65d6809e22e5a12b6ec108353ab8e5/svg-logos/html5.svg" alt="html" width="50" height="50">
 <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/0afa41d5bb65d6809e22e5a12b6ec108353ab8e5/svg-logos/css3.svg" alt="css" width="50" height="50">
-<img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/c0b798999504d60d10db26f3a72ee96b13b2f1f8/svg-logos/bem2.svg" alt="bem" width="50" height="50">
+<img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/ce041a7dd1e56b76d369eb78d7901dd66f24a128/svg-logos/bem2.svg" alt="bem" width="50" height="50">
 <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/0afa41d5bb65d6809e22e5a12b6ec108353ab8e5/svg-logos/javascript.svg" alt="javascript" width="50" height="50">
 <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/0afa41d5bb65d6809e22e5a12b6ec108353ab8e5/svg-logos/webpack.svg" alt="webpack" width="50" height="50">
 </p>
