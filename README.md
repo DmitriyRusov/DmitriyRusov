@@ -9,14 +9,14 @@
   <ul>
 <li>
   <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/c0b798999504d60d10db26f3a72ee96b13b2f1f8/soft-svg/telegram.svg" alt="telegram" width="20" height="20">  <a href="https://t.me/DmitriyRusov90">@DmitriyRusov90</a>
- </li>
-</ul>
+</li>
+  </ul>
 </ul>
 <h2> Stack: </h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/0afa41d5bb65d6809e22e5a12b6ec108353ab8e5/svg-logos/html5.svg" alt="html" width="50" height="50">
 <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/0afa41d5bb65d6809e22e5a12b6ec108353ab8e5/svg-logos/css3.svg" alt="css" width="50" height="50">
-<img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/c0b798999504d60d10db26f3a72ee96b13b2f1f8/svg-logos/bem.svg" alt="bem" width="50" height="50">
+<img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/c0b798999504d60d10db26f3a72ee96b13b2f1f8/svg-logos/bem2.svg" alt="bem" width="50" height="50">
 <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/0afa41d5bb65d6809e22e5a12b6ec108353ab8e5/svg-logos/javascript.svg" alt="javascript" width="50" height="50">
 <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/0afa41d5bb65d6809e22e5a12b6ec108353ab8e5/svg-logos/webpack.svg" alt="webpack" width="50" height="50">
 </p>
@@ -39,7 +39,7 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/cabb94c2eb89193257042c0d906a9d92fad8dbe0/soft-svg/Figma.svg" alt="figma" width="50" height="50">
 <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/cabb94c2eb89193257042c0d906a9d92fad8dbe0/soft-svg/visual-studio-code.svg" alt="visual-studio-code" width="50" height="50">
- <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/c0b798999504d60d10db26f3a72ee96b13b2f1f8/soft-svg/GIMP.svg" alt="gimp" width="50" height="50">
+<img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/c0b798999504d60d10db26f3a72ee96b13b2f1f8/soft-svg/GIMP.svg" alt="gimp" width="50" height="50">
 <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/c0b798999504d60d10db26f3a72ee96b13b2f1f8/soft-svg/premiere-pro.svg" alt="premiere-pro" width="50" height="50">
 <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/c0b798999504d60d10db26f3a72ee96b13b2f1f8/soft-svg/adobe-audition.svg" alt="audition" width="50" height="50">
 
