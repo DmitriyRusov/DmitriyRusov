@@ -5,10 +5,10 @@
 <li> 💻 I've already learned HTML, CSS, JS. </li>
 <li> 👨‍💻 I’m currently learning SCC, TS, React. </li>
 <li> 💞️ I’m looking to collaborate on building WEB sites. </li>
-<li> 📫 To contact me: </li>
+<li> 📫 To contact me: </li>   
   <ul>
 <li>
-  <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/c0b798999504d60d10db26f3a72ee96b13b2f1f8/soft-svg/telegram.svg" alt="telegram" width="20" height="20"> @DmitriyRusov90
+  <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/c0b798999504d60d10db26f3a72ee96b13b2f1f8/soft-svg/telegram.svg" alt="telegram" width="20" height="20">  <a href="https://t.me/DmitriyRusov90">@DmitriyRusov90</a>
  </li>
 </ul>
 </ul>
