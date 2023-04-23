@@ -34,7 +34,7 @@
 <h2>Practice:</h2>
  <img src="https://www.codewars.com/users/DmitriyRusov/badges/large" alt="react">
 
-
+ 
 <h2>Use soft:</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/cabb94c2eb89193257042c0d906a9d92fad8dbe0/soft-svg/Figma.svg" alt="figma" width="50" height="50">
