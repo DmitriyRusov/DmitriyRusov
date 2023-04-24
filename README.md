@@ -1,16 +1,14 @@
 <img src="https://github.com/DmitriyRusov/DmitriyRusov/blob/main/dino-yp.gif?raw=true" alt="react" width="100%">
 <ul>
-<li> 👋 Hey, I’m <a href="https://github.com/DmitriyRusov">@DmitriyRusov</a> </li>
-<li> 👀 I’m interested in frontend development study. </li>
-<li> 💻 I've already learned HTML, CSS, JS. </li>
-<li> 👨‍💻 I’m currently learning SCC, TS, React. </li>
-<li> 💞️ I’m looking to collaborate on building WEB sites. </li>
-<li> 📫 To contact me: </li>   
-  <ul>
-<li>
-  <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/c0b798999504d60d10db26f3a72ee96b13b2f1f8/soft-svg/telegram.svg" alt="telegram" width="20" height="20">  <a href="https://t.me/DmitriyRusov90">@DmitriyRusov90</a>
-</li>
-  </ul>
+<li> 👋 Привет, я Дмитрий <a href="https://github.com/DmitriyRusov">@DmitriyRusov</a> </li>
+<li> 👀 Учусь на front-end разработчика. </li>
+<li> 💻 Уже освоил HTML, CSS, JS. </li>
+<li> 👨‍💻 Изучаю SCC, TS, React. </li>
+<li> 💞️ Рад посотрудничать в разработке сайтов и веб-приложений. </li>
+<li> 📫 Контакты:
+  <a href="https://t.me/DmitriyRusov90" target="_blank"><img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/c0b798999504d60d10db26f3a72ee96b13b2f1f8/soft-svg/telegram.svg" alt="telegram" width="20" height="20"></a>
+  <a href="https://t.me/DmitriyRusov90"><img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/c0b798999504d60d10db26f3a72ee96b13b2f1f8/soft-svg/telegram.svg" alt="telegram" width="20" height="20"></a>
+  </li>
 </ul>
 <h2> Stack: </h2>
 <p align="left">
