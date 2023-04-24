@@ -1,6 +1,6 @@
 <img src="https://github.com/DmitriyRusov/DmitriyRusov/blob/main/dino-yp.gif?raw=true" alt="react" width="100%">
 <ul>
-<li> 👋 Привет, я Дмитрий <a href="https://github.com/DmitriyRusov">@DmitriyRusov</a> </li>
+<li> 👋 Привет, я <a href="https://github.com/DmitriyRusov">Дмитрий</a></li>
 <li> 👀 Учусь на front-end разработчика. </li>
 <li> 💻 Уже освоил HTML, CSS, JS. </li>
 <li> 👨‍💻 Изучаю SCC, TS, React. </li>
