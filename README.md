@@ -7,8 +7,7 @@
 <li> 💞️ Рад посотрудничать в разработке сайтов и веб-приложений. </li>
 <li> 📫 Контакты:
   <a href="https://t.me/DmitriyRusov90" target="_blank"><img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/c0b798999504d60d10db26f3a72ee96b13b2f1f8/soft-svg/telegram.svg" alt="telegram" width="20" height="20"></a>
-  <a href="mailto:iphoneholl@yandex.ru"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Telegram Badge"></a>
-  <a href="mailto:iphoneholl@yandex.ru">📨</a>
+  <a href="mailto:iphoneholl@yandex.ru"><img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/b73c147d4a34f4e3f00d65361c3db57f134f0c30/soft-svg/gmail-icon.svg" alt="email" width="20" height="20"></a>
   </li>
 </ul>
 <h2> Stack: </h2>
