@@ -40,7 +40,7 @@
 <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/c0b798999504d60d10db26f3a72ee96b13b2f1f8/soft-svg/GIMP.svg" alt="gimp" width="50" height="50">
 <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/c0b798999504d60d10db26f3a72ee96b13b2f1f8/soft-svg/premiere-pro.svg" alt="premiere-pro" width="50" height="50">
 <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/c0b798999504d60d10db26f3a72ee96b13b2f1f8/soft-svg/adobe-audition.svg" alt="audition" width="50" height="50">
-
+ 
 </p>
 <!---
 DmitriyRusov/DmitriyRusov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
