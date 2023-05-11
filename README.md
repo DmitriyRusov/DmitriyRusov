@@ -18,7 +18,7 @@
 <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/0afa41d5bb65d6809e22e5a12b6ec108353ab8e5/svg-logos/javascript.svg" alt="javascript" width="50" height="50">
 <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/0afa41d5bb65d6809e22e5a12b6ec108353ab8e5/svg-logos/webpack.svg" alt="webpack" width="50" height="50">
 </p>
-
+ 
 <h2> To learn: </h2>
 <p align="left">
 <img src="https://github.com/DmitriyRusov/DmitriyRusov/blob/main/svg-logos/unlearned/grey-react.png?raw=true" alt="react" width="50" height="50">
