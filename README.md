@@ -1,5 +1,5 @@
 <img src="https://github.com/DmitriyRusov/DmitriyRusov/blob/main/dino-yp.gif?raw=true" alt="react" width="100%">
-<ul>  
+<ul>
 <li> 👋 Привет, я <a href="https://github.com/DmitriyRusov">Дмитрий</a></li>
 <li> 👀 Учусь на front-end разработчика. </li>
 <li> 💻 Уже освоил HTML, CSS, JS. </li>
